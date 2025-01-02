@@ -64,6 +64,11 @@ Clustering groups similar pixels of an image into distinct clusters based on the
    The grayscale version of the input image.
 2. **Clustered Images for \(k=2\), \(k=3\), and \(k=9\):**  
    Visualizations showing the segmented results for different numbers of clusters.
+   ![Clustered](https://github.com/Deeksha1054/Image-Segmentation/blob/main/cluster.png)
+    ![k=2](https://github.com/Deeksha1054/Image-Segmentation/blob/main/k%3D2.png)
+    ![k=3](https://github.com/Deeksha1054/Image-Segmentation/blob/main/k%3D3.png)
+    ![grayscale_k=9](https://github.com/Deeksha1054/Image-Segmentation/blob/main/gray%2Bk%3D9.png)
+
 
 under guidance of:
 Dr Agughasi Victor Ikechukwu (https://github.com/Victor-Ikechukwu)
